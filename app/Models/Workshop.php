@@ -10,6 +10,5 @@ class Workshop extends Model
         'title',
         'location',
         'description',
-        'image'
     ];
 }
